@@ -1,0 +1,14 @@
+header {
+    text-align: center; 
+}
+main {
+    width: 640px; 
+    margin: 0 auto; 
+}
+footer {
+    width: 640px; 
+    margin: 0 auto; 
+}
+.img {
+    font-size: 10px;
+}
